@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7250EEE82AB749A800D6D1C1 /* OutlineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7250EEE72AB749A800D6D1C1 /* OutlineViewController.swift */; };
 		728B61D82A22468B008615D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728B61D72A22468B008615D3 /* AppDelegate.swift */; };
 		728B61DA2A22468B008615D3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728B61D92A22468B008615D3 /* SceneDelegate.swift */; };
 		728B61DC2A22468B008615D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728B61DB2A22468B008615D3 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7250EEE72AB749A800D6D1C1 /* OutlineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutlineViewController.swift; sourceTree = "<group>"; };
 		728B61D42A22468B008615D3 /* SampleCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleCollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		728B61D72A22468B008615D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		728B61D92A22468B008615D3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				728B61E02A22468D008615D3 /* Assets.xcassets */,
 				728B61E22A22468D008615D3 /* LaunchScreen.storyboard */,
 				728B61E52A22468D008615D3 /* Info.plist */,
+				7250EEE72AB749A800D6D1C1 /* OutlineViewController.swift */,
 			);
 			path = SampleCollectionView;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				728B61DC2A22468B008615D3 /* ViewController.swift in Sources */,
+				7250EEE82AB749A800D6D1C1 /* OutlineViewController.swift in Sources */,
 				728B61D82A22468B008615D3 /* AppDelegate.swift in Sources */,
 				728B61DA2A22468B008615D3 /* SceneDelegate.swift in Sources */,
 			);
